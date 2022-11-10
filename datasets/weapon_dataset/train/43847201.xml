@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon_dataset</folder>
+	<filename>43847201.jpg</filename>
+	<path>N:\criminal activity detector\datasets\weapon_dataset\43847201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>175</ymin>
+			<xmax>261</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

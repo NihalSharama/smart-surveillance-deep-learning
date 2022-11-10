@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon_dataset</folder>
+	<filename>Base_2_Base_Sports_-_Don_t_Lose_Your_Grip_Blog_Header_image_49ba9cd3-2fa8-4dc4-bb7d-c9ea9ee93bee_1600x.webp</filename>
+	<path>N:\criminal activity detector\datasets\weapon_dataset\Base_2_Base_Sports_-_Don_t_Lose_Your_Grip_Blog_Header_image_49ba9cd3-2fa8-4dc4-bb7d-c9ea9ee93bee_1600x.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>23</ymin>
+			<xmax>956</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

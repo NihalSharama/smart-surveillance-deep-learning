@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon_dataset</folder>
+	<filename>360_F_321625657_rauGwvaYjtbETuwxn9kpBWKDYrVUMdB4.jpg</filename>
+	<path>N:\criminal activity detector\datasets\weapon_dataset\360_F_321625657_rauGwvaYjtbETuwxn9kpBWKDYrVUMdB4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>51</ymin>
+			<xmax>461</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

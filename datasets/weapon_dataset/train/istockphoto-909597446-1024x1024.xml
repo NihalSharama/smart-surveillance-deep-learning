@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon_dataset</folder>
+	<filename>istockphoto-909597446-1024x1024.jpg</filename>
+	<path>N:\criminal activity detector\datasets\weapon_dataset\istockphoto-909597446-1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>109</ymin>
+			<xmax>955</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon_dataset</folder>
+	<filename>6980450-suited-guy-loading-a-gun.webp</filename>
+	<path>N:\criminal activity detector\datasets\weapon_dataset\6980450-suited-guy-loading-a-gun.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>106</ymin>
+			<xmax>1223</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>

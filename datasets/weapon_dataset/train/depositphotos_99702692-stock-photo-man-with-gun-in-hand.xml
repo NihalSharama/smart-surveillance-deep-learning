@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon_dataset</folder>
+	<filename>depositphotos_99702692-stock-photo-man-with-gun-in-hand.jpg</filename>
+	<path>N:\criminal activity detector\datasets\weapon_dataset\depositphotos_99702692-stock-photo-man-with-gun-in-hand.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>108</ymin>
+			<xmax>823</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>
